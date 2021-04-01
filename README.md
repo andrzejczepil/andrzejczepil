@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andrzejczepil
+- 👀 I’m interested in Biomedical engineering and implementing IT solutions in the medical field of science.
+- 🌱 I’m currently learning Swift, Python and C.
+- 💞️ I’m looking to collaborate on Arduino, C++, Swift projects.
+- 📫 How to reach me: andrzej.czepil@gmail.com.
